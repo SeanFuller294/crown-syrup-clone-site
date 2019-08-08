@@ -1,3 +1,6 @@
+.first-row{
+  min-height: 10vh;
+}
 .second-row{
   min-height: 50vh;
   background-image: url("https://www.crownmaple.com/sites/default/files/cm-bourbon.jpg");
