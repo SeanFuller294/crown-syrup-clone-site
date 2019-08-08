@@ -12,8 +12,32 @@
   color: white;
   font: monospace;
 }
+.fourth-row{
+  background-image: url("https://previews.123rf.com/images/karenr/karenr1408/karenr140800005/30412578-light-gray-and-white-small-polka-dots-pattern-repeat-background-that-is-seamless-and-repeats.jpg");
+  background-size: contain;
+  min-height: 50vh;
+  align-items:center;
+}
+.image-block{
+  min-height: 20vh;
+  background-size: cover;
+  justify-content: center;
+  align-items: center;
+}
+.first-bg{
+  background-image: url("http://studiompls.com/assets/023.jpg");
+}
+.second-bg{
+background-image: url("https://img.alicdn.com/imgextra/i1/2598508436/TB2nImefbSYBuNjSspfXXcZCpXa_!!2598508436.jpg");
+}
+.third-bg{
+background-image: url("https://cdn.britannica.com/s:300x300/48/106048-120-A097ADC4.jpg");
+}
 .btn-colored{
   background-color: #808080;
   color:white;
+}
+p{
+  font-size: 10px;
 }
 
