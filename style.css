@@ -6,4 +6,14 @@
   background-image: url("https://www.crownmaple.com/sites/default/files/cm-bourbon.jpg");
   background-size: cover;
 }
+.third-row{
+  background-color: black;
+  min-height: 50vh;
+  color: white;
+  font: monospace;
+}
+.btn-colored{
+  background-color: #808080;
+  color:white;
+}
 
